@@ -85,7 +85,7 @@ body{
   background-color: white;
   border: none;
 }
-strong :hover{
-  color: rgb(201, 202, 204);
+.ho:hover{
+  color: rgb(156, 157, 160);
   cursor: pointer;
 }
